@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="ImageService.aspx.cs" Inherits="ImageService" %>

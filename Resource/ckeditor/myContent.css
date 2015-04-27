@@ -1,0 +1,15 @@
+﻿body {
+    font-size: 10pt;
+    font-family:Arial;
+}
+p{
+    padding: 0px;
+    margin:0px;
+}
+
+
+.editorWidth 
+{
+    width: 650px;
+    max-width: 650px;
+}

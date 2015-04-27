@@ -1,0 +1,36 @@
+﻿
+
+table.gridview, table.gridviewHeader {
+    border-collapse: collapse;
+}
+
+table.gridview th, table.gridview td {
+    border-top: 1px solid #BDBEC0;
+    border-right: 1px solid #BDBEC0;
+    border-bottom: 1px solid #BDBEC0;
+    padding: 2px 5px 2px 5px;
+}
+
+table.gridview tr:first-child td {
+    border-top: 0px !important;
+}
+
+table.gridviewHeader th {
+    border-right: 1px solid #BDBEC0;
+    background: #E5F0D4;
+    padding: 2px 5px 2px 5px;
+}
+
+div.headerDiv {
+    border-left: 1px solid #BDBEC0;
+    border-top: 1px solid #BDBEC0;
+    border-right: 1px solid #BDBEC0;
+    border-bottom: 1px solid #BDBEC0;
+}
+
+div.bodyDiv {
+    overflow-y: auto;
+    border-left: 1px solid #BDBEC0;
+    border-right: 1px solid #BDBEC0;
+    border-bottom: 1px solid #BDBEC0;
+}

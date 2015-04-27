@@ -1,0 +1,23 @@
+﻿body {
+    font-family: Arial;
+}
+
+ul,li{
+    padding-left: 0px;
+}
+
+table.ReportTable
+{
+    border-collapse: collapse;
+}
+
+table.ReportTable td,table.ReportTable th
+{
+    border: solid 1px #D4D4D4;
+    padding: 3px 8px 3px 8px;
+}
+
+
+li {
+    list-style-type: none!important;
+}
